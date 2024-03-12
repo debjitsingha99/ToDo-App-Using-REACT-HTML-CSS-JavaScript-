@@ -1,0 +1,9 @@
+.welcome {
+    font-size: 40px;
+    margin-top: 50px;
+    font-weight: 600;
+    background-image: radial-gradient(circle at top center, rgb(244, 234, 104),rgb(234, 179, 103),rgb(224, 125, 103),rgb(214, 70, 102),rgb(204, 15, 101));
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
